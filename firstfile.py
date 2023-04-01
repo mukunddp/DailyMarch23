@@ -2,10 +2,10 @@ var = 'Mukund'
 print(var)
 print(id(var))
 
-name = 'Mukund'     # this is name
-print(name)
-print(id(name))     # this is checking memory location of DATA
-print(var)
+# name = 'Mukund'     # this is name
+# print(name)
+# print(id(name))     # this is checking memory location of DATA
+# print(var)
 
 # S name S memory (3) or D name D memory(1)  NOTA(3)
 """

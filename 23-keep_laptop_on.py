@@ -6,3 +6,6 @@ while True:
     Width, Height = gui.size()
     gui.moveTo(Width/2, Height/2)
     gui.sleep(60)
+
+
+# libraries

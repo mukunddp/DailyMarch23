@@ -56,6 +56,6 @@ def fib(n: 'int', output: 'list' = []) -> 'list':
             fib(n - 1, output)
         return output
 
-
 print(fib.__annotations__)
-print(fib(2, [15, 6, 25]))
+
+# print(fib(0, [15, 6, 25]))

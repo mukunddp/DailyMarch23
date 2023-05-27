@@ -48,7 +48,8 @@ f.close()  # closing a File
 
 # with open('myfile.txt', '+a') as myfile:
 #     myfile.seek(0)  # move my cursor to perticular position
-#     # print(myfile.read(10))
+    # myfile.
+    # print(myfile.read(10))
 #     myfile.truncate()
     # print(myfile.tell())    # index of my cursor
     # myfile.seek(0)
